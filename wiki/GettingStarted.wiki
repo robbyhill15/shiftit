@@ -4,6 +4,7 @@
 = Getting Started =
 The Shift It application will let you control Mac OS X windows easily. Say "Good Bye" to dragging the screens to move. With Shift It, you can easily move your windows and resize them with a few handy hotkeys.
 
+* You need to have [http://cocoatutorial.grapewave.com/wp-content/uploads/2010/01/accessibility.png "Enable access for assistive devices"] enabled in Universal Access preference pane. 
 
 = Benefits =
 
