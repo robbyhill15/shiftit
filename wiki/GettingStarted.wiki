@@ -12,3 +12,14 @@ Here are some of the benefits of using Shift It:
   * No more hassle of dragging windows to move them
   * Make you of the predefined areas to move the window. 
     * For example, you can move a window to cover the left of your screen by using alt+Cmd+left arrow. See [HotKeys] for all the hotkeys.
+    * Also, you can make the focused window fill the whole screen. See screenshots below to see how it works. 
+<table cellpadding='0px' cellspacing='0px' border='0px'>
+   <tr>
+   <td>
+<img src="http://cocoatutorial.grapewave.com/wp-content/uploads/2010/02/beforeFullScreen.png" title="Before Full Screen" width='320px' height='180px'/>
+ </td>
+  <td>== Press Alt+Cmd+F    ==>  </td>
+  <td> <img src="http://cocoatutorial.grapewave.com/wp-content/uploads/2010/02/afterFullScreen.png" title="After Pressing the hot key" width='320px' height='180px'/> 
+</td>
+</tr>
+</table>
