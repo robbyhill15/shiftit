@@ -10,4 +10,4 @@ The Shift It application will let you control Mac OS X windows easily. Say "Good
 Here are some of the benefits of using Shift It:
   * No more hassle of dragging windows to move them
   * Make you of the predefined areas to move the window. 
-    * For example, you can move a window to cover the left of your screen by using alt+Cmd+left arrow. See here for all the hotkeys.
+    * For example, you can move a window to cover the left of your screen by using alt+Cmd+left arrow. See [HotKeys] for all the hotkeys.
