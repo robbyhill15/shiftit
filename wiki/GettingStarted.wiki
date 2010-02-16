@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Quick start guide for the Shift It
 #labels Featured,Phase-Requirements
 
 = Getting Started =
