@@ -2,10 +2,10 @@
 #labels Featured,Phase-Requirements,Phase-Implementation
 
 = v2.0 =
-#Create a preference pane that shows current shortcut keys.
+* Create a preference pane that shows current shortcut keys.
    * No support for changing shortcut keys.
-#Add Sparkle Framework to support auto updates.
+* Add Sparkle Framework to support auto updates.
 
 = v3.0 =
-#Create a preference pane that shows current shortcut keys.
+* Create a preference pane that shows current shortcut keys.
    * *Add* support for changing shortcut keys.
