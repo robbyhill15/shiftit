@@ -1,4 +1,4 @@
-#summary One-Release Notes for version 1.1.
+#summary Release Notes for version 1.1.
 #labels Featured,Phase-Design
 
 = Introduction =
