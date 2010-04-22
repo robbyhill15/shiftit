@@ -1,3 +1,13 @@
-#summary One-Instructions to build Shift It
+#summary Instructions to build Shift It
+#labels Featured,Phase-Implementation
 
 === Page under construction ===
+
+=== Important changes ===
+As of check-in version #22, Shift It cannot be built alone. You will have to configure Shift It to include the Sparkle.Framework. 
+
+* To make ShiftIt build, you would have just follow these two steps:
+    # Download the [http://sparkle.andymatuschak.org/ Sparkle Framework]  
+    # Copy the Sparkle.Framework file and paste in the ShiftIt Folder
+
+*NOTE: Check for Updates and Automatically Update functions will not work if you do not configure the application for  Sparkle Framework.*
