@@ -1,14 +1,5 @@
 #summary Release Notes for version 1.2
 #labels Featured
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+This release contains a lot of bug fixes. 
+  * Refer to [http://code.google.com/p/shiftit/issues/list?can=7&q=&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles Issues List]
