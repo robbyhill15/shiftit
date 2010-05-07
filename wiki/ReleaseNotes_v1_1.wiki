@@ -1,5 +1,5 @@
 #summary Release Notes for version 1.1.
-#labels Featured,Phase-Design
+#labels Featured,Phase-Design,Deprecated
 
 = Introduction =
 
